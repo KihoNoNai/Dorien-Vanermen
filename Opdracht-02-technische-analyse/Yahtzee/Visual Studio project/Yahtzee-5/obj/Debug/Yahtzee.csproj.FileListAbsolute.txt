@@ -1,0 +1,15 @@
+D:\Documenten\School\MCT 2\Software Engineering\Yahtzee-volledig\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
+D:\Documenten\School\MCT 2\Software Engineering\Yahtzee-volledig\Yahtzee-5\bin\Debug\Yahtzee-5.exe
+D:\Documenten\School\MCT 2\Software Engineering\Yahtzee-volledig\Yahtzee-5\bin\Debug\Yahtzee-5.pdb
+D:\Documenten\School\MCT 2\Software Engineering\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+D:\Documenten\School\MCT 2\Software Engineering\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.GameView.resources
+D:\Documenten\School\MCT 2\Software Engineering\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.Properties.Resources.resources
+D:\Documenten\School\MCT 2\Software Engineering\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.ScoreboardView.resources
+D:\Documenten\School\MCT 2\Software Engineering\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.TeerlingView.resources
+D:\Documenten\School\MCT 2\Software Engineering\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.YahtzeeView.resources
+D:\Documenten\School\MCT 2\Software Engineering\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+D:\Documenten\School\MCT 2\Software Engineering\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee-5.exe
+D:\Documenten\School\MCT 2\Software Engineering\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee-5.pdb
+D:\Documenten\School\MCT 2\Software Engineering\Visual Studio project\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
+D:\Documenten\School\MCT 2\Software Engineering\Visual Studio project\Yahtzee-5\obj\Debug\Yahtzee-5.exe
+D:\Documenten\School\MCT 2\Software Engineering\Visual Studio project\Yahtzee-5\obj\Debug\Yahtzee-5.pdb
