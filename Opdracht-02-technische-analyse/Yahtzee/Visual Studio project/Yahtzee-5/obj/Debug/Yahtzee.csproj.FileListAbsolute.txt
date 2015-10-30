@@ -13,3 +13,6 @@ D:\Documenten\School\MCT 2\Software Engineering\Yahtzee-volledig\Yahtzee-5\obj\D
 D:\Documenten\School\MCT 2\Software Engineering\Visual Studio project\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
 D:\Documenten\School\MCT 2\Software Engineering\Visual Studio project\Yahtzee-5\obj\Debug\Yahtzee-5.exe
 D:\Documenten\School\MCT 2\Software Engineering\Visual Studio project\Yahtzee-5\obj\Debug\Yahtzee-5.pdb
+D:\Documenten\School\MCT 2\Software Engineering\Repository Dorien_Vanermen\Opdracht-02-technische-analyse\Yahtzee\Visual Studio project\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
+D:\Documenten\School\MCT 2\Software Engineering\Repository Dorien_Vanermen\Opdracht-02-technische-analyse\Yahtzee\Visual Studio project\Yahtzee-5\obj\Debug\Yahtzee-5.exe
+D:\Documenten\School\MCT 2\Software Engineering\Repository Dorien_Vanermen\Opdracht-02-technische-analyse\Yahtzee\Visual Studio project\Yahtzee-5\obj\Debug\Yahtzee-5.pdb
