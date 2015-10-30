@@ -1,0 +1,45 @@
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.pdb
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csprojResolveAssemblyReference.cache
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Properties.Resources.resources
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.TeerlingView.resources
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
+c:\users\nosenzop\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Yahtzee.resources
+C:\Users\YawuarSerna\Desktop\MT\software_engineering\labo\01\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+C:\Users\YawuarSerna\Desktop\MT\software_engineering\labo\01\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+C:\Users\YawuarSerna\Desktop\MT\software_engineering\labo\01\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
+C:\Users\YawuarSerna\Desktop\MT\software_engineering\labo\01\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe
+C:\Users\YawuarSerna\Desktop\MT\software_engineering\labo\01\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.pdb
+C:\Users\YawuarSerna\Desktop\MT\software_engineering\labo\01\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csprojResolveAssemblyReference.cache
+C:\Users\YawuarSerna\Desktop\MT\software_engineering\labo\01\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Properties.Resources.resources
+C:\Users\YawuarSerna\Desktop\MT\software_engineering\labo\01\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.TeerlingView.resources
+C:\Users\YawuarSerna\Desktop\MT\software_engineering\labo\01\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Yahtzee.resources
+C:\Users\YawuarSerna\Desktop\MT\software_engineering\labo\01\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache
+C:\Users\YawuarSerna\Desktop\MT\software_engineering\labo\01\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.YahtzeeView.resources
+C:\Users\Yawuar\Desktop\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+C:\Users\Yawuar\Desktop\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+C:\Users\Yawuar\Desktop\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
+C:\Users\Yawuar\Desktop\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe
+C:\Users\Yawuar\Desktop\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.pdb
+C:\Users\Yawuar\Desktop\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csprojResolveAssemblyReference.cache
+C:\Users\Yawuar\Desktop\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Properties.Resources.resources
+C:\Users\Yawuar\Desktop\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.TeerlingView.resources
+C:\Users\Yawuar\Desktop\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Yahtzee.resources
+C:\Users\Yawuar\Desktop\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.YahtzeeView.resources
+C:\Users\Yawuar\Desktop\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache
+C:\Users\Yawuar\Desktop\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.ScoreBoardView.resources
+D:\Documenten\School\MCT 2\Software Engineering\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+D:\Documenten\School\MCT 2\Software Engineering\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+D:\Documenten\School\MCT 2\Software Engineering\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
+D:\Documenten\School\MCT 2\Software Engineering\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe
+D:\Documenten\School\MCT 2\Software Engineering\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.pdb
+D:\Documenten\School\MCT 2\Software Engineering\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csprojResolveAssemblyReference.cache
+D:\Documenten\School\MCT 2\Software Engineering\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Properties.Resources.resources
+D:\Documenten\School\MCT 2\Software Engineering\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.ScoreBoardView.resources
+D:\Documenten\School\MCT 2\Software Engineering\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.TeerlingView.resources
+D:\Documenten\School\MCT 2\Software Engineering\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Yahtzee.resources
+D:\Documenten\School\MCT 2\Software Engineering\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.YahtzeeView.resources
+D:\Documenten\School\MCT 2\Software Engineering\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache
