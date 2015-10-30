@@ -21,3 +21,6 @@ C:\Users\User\Desktop\TicTacToe\Tic-Tac-Toe\opdracht-03-versiebeheer\Opdracht in
 C:\Users\User\Desktop\TicTacToe\Tic-Tac-Toe\opdracht-03-versiebeheer\Opdracht in team werken\TicTacToe1\TicTacToe1\bin\Debug\TicTacToe1.pdb
 C:\Users\Axel\Desktop\Axel Driesen\opdracht-03-versiebeheer\Opdracht in team werken\TicTacToe1\TicTacToe1\obj\Debug\TicTacToe1.GameView.resources
 C:\Users\Axel\Desktop\Axel Driesen\opdracht-03-versiebeheer\Opdracht in team werken\TicTacToe1\TicTacToe1\obj\Debug\TicTacToe1.TicTacToeView.resources
+D:\Documenten\School\MCT 2\Software Engineering\Repository Dorien_Vanermen\Opdracht-03-versiebeheer\Opdracht in team werken\TicTacToe1\TicTacToe1\bin\Debug\TicTacToe1.exe.config
+D:\Documenten\School\MCT 2\Software Engineering\Repository Dorien_Vanermen\Opdracht-03-versiebeheer\Opdracht in team werken\TicTacToe1\TicTacToe1\obj\Debug\TicTacToe1.exe
+D:\Documenten\School\MCT 2\Software Engineering\Repository Dorien_Vanermen\Opdracht-03-versiebeheer\Opdracht in team werken\TicTacToe1\TicTacToe1\obj\Debug\TicTacToe1.pdb
